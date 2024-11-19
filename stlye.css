@@ -1,0 +1,13 @@
+h1 {
+    font-size: 50px;
+    color:rgb(115, 80, 212);
+    text-decoration: underline;
+}
+
+p {
+    text-indent: 50px;
+}
+body {
+    background: white url(download-removebg-preview\ \(2\).png) no-repeat top right;
+    width: 200; height: 200;
+}
